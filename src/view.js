@@ -20,5 +20,5 @@ export const renderItems = (dataGot) => {
     ul.appendChild(newLi);
 
   });
-  return ul;
+  return ul;
 };
